@@ -1,0 +1,17 @@
+
+#test-only {
+    color: green;
+    font-size: 100px;
+    padding: 10vh;
+}
+
+#real-alert {
+    color: red;
+    font-size: 50px;
+    padding: 5vh;
+    
+}
+
+.missile-link {
+    display: block;
+}
